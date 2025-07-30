@@ -1,0 +1,5 @@
+Nama : lauraPurnama
+Nim : 3356
+
+Apa itu machine learning :  
+Metode statistik canggih untuk menemukan insight tersembunyi dalam big data. Butuh banyak komputasi dan dataset berkualitas.

@@ -1,0 +1,5 @@
+Nama : tinaRosiana
+Nim : 1123
+
+Apa itu machine learning :  
+Metode statistik canggih untuk menemukan insight tersembunyi dalam big data.

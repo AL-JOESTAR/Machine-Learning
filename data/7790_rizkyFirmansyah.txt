@@ -1,0 +1,5 @@
+Nama : rizkyFirmansyah
+Nim : 7790
+
+Apa itu machine learning :  
+Teknik untuk otomatisasi analisis data. Model ML bisa klasifikasi gambar, terjemahan bahasa, atau prediksi tren pasar. Contohnya rekomendasi Netflix atau deteksi spam email.
