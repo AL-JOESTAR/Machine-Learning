@@ -1,5 +1,5 @@
 regresi :
-memprediksi nilai
+memprediksi nilai (r2 score)
 
 classifier :
-prediksi kelas
+prediksi kelas (f1 score)
