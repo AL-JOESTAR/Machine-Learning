@@ -1,0 +1,5 @@
+Nama : sitiAisyah
+Nim : 3345
+
+Apa itu machine learning :  
+Machine Learning adalah teknologi untuk analisis data otomatis. Mirip seperti mengajari komputer mengenali pola, yang memungkinkan sistem belajar dari data tanpa pemrograman eksplisit. seperi rekomendasi film Netflix atau deteksi email.

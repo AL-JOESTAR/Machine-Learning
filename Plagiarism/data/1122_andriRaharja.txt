@@ -1,0 +1,5 @@
+Nama : andriRaharja
+Nim : 1122
+
+Apa itu machine learning :  
+Machine learning adalah cabang AI yang memungkinkan sistem belajar dari data tanpa pemrograman eksplisit. Contohnya rekomendasi Netflix atau deteksi spam email.

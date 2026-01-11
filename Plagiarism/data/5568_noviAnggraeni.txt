@@ -1,0 +1,5 @@
+Nama : noviAnggraeni
+Nim : 5568
+
+Apa itu machine learning :  
+Komputer yang 'belajar' dengan menganalisis contoh. Contoh sederhana: filter email spam yang semakin pintar seiring waktu.  Ada 3 jenis: supervised, unsupervised, dan reinforcement learning. Komputer yang 'belajar' dengan menganalisis contoh. Contoh sederhana: filter email spam yang semakin pintar seiring waktu.

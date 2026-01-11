@@ -1,0 +1,6 @@
+Nama : fajarHidayat
+Nim : 6689
+
+Apa itu machine learning :  
+Tool untuk membangun sistem cerdas. Tidak perlu koding manual untuk setiap skenario - cukup beri contoh data
+Proses pelatihan algoritma dengan data untuk membuat prediksi atau keputusan. Digunakan di mobil otonom hingga diagnosa medis.
