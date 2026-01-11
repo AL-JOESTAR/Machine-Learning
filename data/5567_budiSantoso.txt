@@ -1,5 +1,0 @@
-Nama : budiSantoso
-Nim : 5567
-
-Apa itu machine learning :  
-Komputer yang 'belajar' dengan menganalisis contoh. Contoh sederhana: filter email spam yang semakin pintar seiring waktu.

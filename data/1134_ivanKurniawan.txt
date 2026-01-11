@@ -1,5 +1,0 @@
-Nama : ivanKurniawan
-Nim : 1134
-
-Apa itu machine learning :  
-Revolusi di bidang analitik data. Algoritma yang mengekstrak pola kompleks dari data, dari diagnosa kanker hingga optimasi rute delivery, ML mengubah banyak industri, juga Membantu bisnis dalam personalisasi layanan dan optimasi proses.

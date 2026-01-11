@@ -1,5 +1,0 @@
-Nama : siskaWulandari
-Nim : 9912
-
-Apa itu machine learning :  
-Metode statistik untuk menemukan insight tersembunyi dalam big data. seperti supervised, unsupervised, reforcement.

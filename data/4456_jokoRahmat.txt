@@ -1,5 +1,0 @@
-Nama : jokoWidodo
-Nim : 4456
-
-Apa itu machine learning :  
-Cara melatih komputer menyelesaikan tugas kompleks dengan mengenali pola dari data training. juga Metode statistik canggih untuk menemukan insight tersembunyi dalam big data.

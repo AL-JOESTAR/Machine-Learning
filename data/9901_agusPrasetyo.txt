@@ -1,5 +1,0 @@
-Nama : agusPrasetyo
-Nim : 9901
-
-Apa itu machine learning :  
-Subset AI dimana model matematika dilatih dengan dataset besar. Ada 3 jenis: supervised, unsupervised, dan reinforcement learning.

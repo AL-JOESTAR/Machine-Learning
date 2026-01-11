@@ -1,5 +1,0 @@
-Nama : raniMelati
-Nim : 2234
-
-Apa itu machine learning :  
-Teknologi untuk membuat keputusan cerdas berdasarkan data historis. Semakin banyak data, semakin akurat prediksinya. Teknologi untuk membuat keputusan cerdas berdasarkan data historis. Semakin banyak data, semakin akurat prediksinya.

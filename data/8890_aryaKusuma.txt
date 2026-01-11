@@ -1,5 +1,0 @@
-Nama : aryaKusuma
-Nim : 8890
-
-Apa itu machine learning :  
-Algoritma yang mengekstrak pola kompleks dari data, menjadi revolusi di bidang analitik data, Membantu bisnis dalam personalisasi layanan dan optimasi proses.

@@ -1,5 +1,0 @@
-Nama : linaMariana
-Nim : 6678
-
-Apa itu machine learning :  
-Cara membuat komputer belajar dari contoh seperti manusia. Digunakan di Google Translate, Spotify playlist, dan banyak lagi,  Ada 3 jenis: supervised, unsupervised, dan reinforcement learning.
