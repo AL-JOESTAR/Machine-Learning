@@ -5,6 +5,11 @@
 * matplotlib
 * scikit-learn
 
+## Bagian Machine Learning
+### Supervised Learniing
+
+### Unsupervised Learning
+
 ## Catatan
 regresi :
 memprediksi nilai (r2 score)
