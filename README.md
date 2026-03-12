@@ -1,3 +1,11 @@
+## Fondasi awal yang dibutuhkan
+* python
+* numpy
+* pandas
+* matplotlib
+* scikit-learn
+
+## Catatan
 regresi :
 memprediksi nilai (r2 score)
 
