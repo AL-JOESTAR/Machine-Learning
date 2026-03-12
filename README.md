@@ -8,9 +8,9 @@
 ## Bagian Machine Learning
 ### Supervised Learning (Data & Label)
 * Klasifikasi
-  -Kategori
+  - Kategori
 * Regresi
-  -Prediksi
+  - Prediksi
 
 ### Unsupervised Learning (Data Tidak Berlabel)
 * Clusstering
